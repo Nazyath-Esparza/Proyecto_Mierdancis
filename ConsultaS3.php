@@ -51,7 +51,7 @@ $resultados= mysqli_query($conexion, $consulta);
 
 echo
 "<h1> MUESTRA TODAS LAS COLUMNAS Y
-<br>TODOS LOS CAMPOS DE LA TABLA COMPOSITORES
+<br>TODOS LOS CAMPOS DE LA TABLA VENTAS
 <br>DONDE LA CANTIDAD DE VENTAS SEA MAYOR QUE 10 </h1>";
 echo "<br>";
 
